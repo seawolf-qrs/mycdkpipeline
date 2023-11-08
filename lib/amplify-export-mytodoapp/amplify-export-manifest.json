@@ -1,0 +1,13 @@
+{
+  "stackName": "amplify-mytodoapp-dev-134805",
+  "props": {
+    "templateFile": "root-stack-template.json",
+    "parameters": {
+      "AuthRoleName": "amplify-mytodoapp-dev-134805-authRole",
+      "UnauthRoleName": "amplify-mytodoapp-dev-134805-unauthRole",
+      "DeploymentBucketName": "amplify-mytodoapp-dev-134805-deployment"
+    },
+    "preserveLogicalIds": true,
+    "loadNestedStacks": {}
+  }
+}
